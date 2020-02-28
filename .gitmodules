@@ -1,3 +1,6 @@
 [submodule "alerta-dengue-bot"]
 	path = alerta-dengue-bot
 	url = git@gitlab.e-va.red:met-comunitarias/alerta-dengue-bot.git
+[submodule "doc/tex"]
+	path = doc/tex
+	url = git@github.com:glandfried/tex.git
